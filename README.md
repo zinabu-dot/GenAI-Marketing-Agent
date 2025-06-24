@@ -15,6 +15,7 @@ A modular generative AI-powered agent designed to assist with automated marketin
 
 ## 📁 Project Structure
 
+```
 genai-marketing-agent/
 │
 ├── main.py # Entry point to run the marketing agent
@@ -28,7 +29,7 @@ genai-marketing-agent/
 │ └── competitor_tool.py # Competitor analysis mockup
 ├── requirements.txt # Python package dependencies
 ├── README.md # This documentation file
-
+```
 
 ---
 

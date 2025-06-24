@@ -37,8 +37,8 @@ genai-marketing-agent/
 ### 1. Clone the Repository
 
 ```
-git clone https://github.com/yourusername/genai-marketing-agent.git
-cd genai-marketing-agent
+git clone https://github.com/zinabu-dot/GenAI-Marketing-Agent.git
+cd GenAI-Marketing-Agent
 ```
 
 ### 2. Set Up a Virtual Environment

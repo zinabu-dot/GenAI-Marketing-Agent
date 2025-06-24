@@ -14,6 +14,7 @@ Content:
 """,
 }
 
+
 def load_prompt_template(name: str) -> str:
     if name not in TEMPLATES:
         raise ValueError(f"Prompt template '{name}' not found.")

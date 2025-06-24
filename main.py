@@ -5,6 +5,6 @@ if __name__ == "__main__":
         product="EcoBottle",
         audience="young professionals",
         tone="bold",
-        content_type="Instagram ad"
+        content_type="Instagram ad",
     )
     print("\nGenerated Campaign:\n", result)

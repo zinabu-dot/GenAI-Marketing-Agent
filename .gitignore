@@ -49,3 +49,5 @@ coverage.xml
 # HuggingFace cache
 huggingface/
 ~/.huggingface/
+
+.ruff_cache
